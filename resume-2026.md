@@ -8,19 +8,19 @@ Abu Dhabi, UAE (resident) · Notice period: 30 days · +971 565 973 854 · bhara
 
 ## Summary
 
-I build the systems behind money: how it moves, how it is recorded, and how it stays compliant.
+Experienced in building the systems behind money: how it moves, how it is recorded, and how it stays compliant.
 
-Hands-on engineering leader with 12+ years of experience, working across enterprises and high-growth fintechs. My focus is next-generation digital payments and financial infrastructure: how money moves across borders, between fiat and digital assets, and through traditional rails and stablecoins alike. This is the infrastructure that merchants and other businesses integrate with. It covers money movement and settlement, digital wallets, payment and card rails, on/off-ramps, and the ledger that is the single source of truth behind them. Earlier in my career, I worked on investing and trading platforms.
+Hands-on engineering leader with 12+ years of experience, working across enterprises and high-growth fintechs. My focus is next-generation digital payments and financial infrastructure: how money moves across borders, between fiat and digital assets, and through traditional payment rails and blockchain networks alike. This is the infrastructure that merchants and other businesses integrate with. It covers money movement and settlement, digital wallets, payment and card rails, on/off-ramps, and the ledger that is the single source of truth behind them.
 
-I have hands-on experience across the full ecosystem behind payment infrastructure: building systems that work with banking partners, payment networks, fiat providers and crypto custodians, within the licensing and regulatory obligations that let a company hold customer fiat and crypto and move money between the two. I turn that into technical strategy and secure, compliant, cloud-native systems on AWS, and I align engineers, product, compliance and leadership around it.
+I have hands-on experience across the full ecosystem behind payment infrastructure: building systems that work with chartered banks, licensed payment providers (EMIs) offering banking-as-a-service, payment networks and crypto custodians, within the licensing and regulatory obligations that let a company hold customer fiat and crypto and move money between the two. I turn that into technical strategy and secure, compliant, cloud-native systems on AWS, and I align engineers, product, compliance and leadership around it. A business studies degree and early years in technical sales help me lead partner, commercial and compliance conversations as confidently as technical ones.
 
 ---
 
 ## Core Expertise
 
-- **Money movement & payment rails:** ACH, domestic and cross-border wires (Fedwire, SWIFT), SEPA & SEPA Instant, real-time payments (RTP, FedNow), and debit and credit card rails, plus digital assets (stablecoins, on/off-ramps, custody). Covers the full lifecycle: deposits, withdrawals, transfers, refunds, remittance, settlement and reconciliation
+- **Money movement & payment rails:** ACH, domestic and cross-border wires (Fedwire, SWIFT), SEPA & SEPA Instant, real-time payments (RTP, FedNow), and debit and credit card rails, plus on/off-ramps between fiat and stablecoins. Covers the full lifecycle: deposits, withdrawals, transfers, refunds, remittance, settlement and reconciliation
 - **Digital asset networks & custody:** multi-chain stablecoin and crypto movement across EVM chains (Ethereum, Polygon, Base, Arbitrum), Solana and Tron, plus custody models (MPC, hot/cold wallets, qualified custodians) and on-chain settlement
-- **Fintech business & regulation:** licensing that lets a business hold and move money (chartered banks, trust charters, MTL, EMI, VASP); integrating banking partners, fiat providers and crypto custodians; FBO account structures; card issuing and settlement economics
+- **Fintech business & regulation:** licensing that lets a business hold and move money (chartered banks, trust charters, MTL, EMI, VASP); integrating chartered banks, banking-as-a-service EMIs and crypto custodians; FBO and safeguarding account structures; card issuing and settlement economics
 - **Compliance & risk:** AML / KYC / KYB, transaction screening and monitoring, sanctions screening (OFAC), regulatory reporting, audit trails
 - **Ledgers & financial correctness:** double-entry accounting, holds and authorizations, reversals, reconciliation
 - **Cloud architecture & security:** AWS serverless and event-driven systems, multi-account setups, applied across the Well-Architected pillars (operational excellence, security, reliability, performance efficiency, cost optimization). Security work includes IAM, encryption (KMS), network isolation and least privilege
@@ -43,9 +43,9 @@ Next-generation digital payments and financial infrastructure: institutional-gra
 - Designing **money-movement lifecycles** (deposits, withdrawals, transfers, refunds, remittance, on/off-ramps, card transactions), including holds, settlement, reversals and reconciliation.
 - Building **compliance into transaction flows**: AML and transaction screening before funds settle, regulatory reporting codes, and complete audit trails.
 - Architecting **event-driven, serverless services on AWS** that communicate through shared event contracts across multiple engineering teams.
-- Leading the **migration of live financial flows** from a legacy system using feature flags, automated parity checks and data backfills, with no customer impact.
+- Leading the **migration of live financial flows** from a legacy system using feature flags, automated parity checks and data backfills.
 - Improving **operational excellence**: observability and alerting, a full local cloud environment, and faster CI/CD.
-- Introduced **AI-assisted development** into the team's workflow, including agent skills that capture domain and codebase knowledge so engineers and AI agents are productive from day one.
+- Strengthened **AI-assisted development** in the team's workflow, including agent skills that capture domain and codebase knowledge so engineers and AI agents are productive from day one.
 - Mentoring engineers and setting standards for code quality, testing and design reviews.
 
 ### Principal Software Engineer, Avrioc Technologies
@@ -64,13 +64,13 @@ Digital payments and wallet platform for consumers and businesses, handling paym
 *Remote · May 2023 – May 2024*
 
 - Architected a microservice-based tailoring automation platform covering orders, customization, payments and customer workflows (TypeScript, Node.js, PostgreSQL, RabbitMQ, AWS, React micro-frontends), with TDD and CI/CD.
-- Deepened my cloud architecture skills through structured study, leading to AWS certification.
+- Advanced my skills in cloud architecture and Spring Boot through structured self-learning.
 
 ### Lead Software Engineer, Getbee
 
 *Dubai · Jan 2022 – Feb 2023*
 
-Cloud-native commerce platform connecting offline and online shopping across Italy, the US and the Middle East.
+Cloud-native live video commerce platform connecting in-store sales experts with online shoppers across the EU, the US and the Middle East. It lets retailers bring in-store service online, from real-time product recommendations to in-call checkout.
 
 - Led architecture of event-driven microservices on AWS and Kubernetes; set engineering strategy with product leadership.
 - Introduced a design system and engineering KPIs that improved team velocity and delivery clarity.
@@ -98,23 +98,20 @@ Digital investment and trading platform offering smart portfolios and trading in
 
 - Self-directed training in modern JavaScript, cloud and full-stack architecture during an international relocation.
 
-### Senior Software Developer, Crossover
+### Software Developer, Crossover
 
 *Kathmandu · Jul 2013 – Jun 2016*
 
 - Built, modernized and maintained client systems; consulted with customers on proposals, scope and technical issues.
 
-### Software Engineer, Uniweb Technologies
+### Technical Sales Engineer & Web Developer, Uniweb Technologies
 
 *Kathmandu · Feb 2011 – May 2013*
 
-- Built backend systems and APIs, designed databases, and led a small development team.
-
-### Technical Sales Engineer, Thakur International & Ncell
-
-*Kathmandu · Mar 2006 – Dec 2010*
-
-- Pre-sales solution design, product demos and customer training. This is where I learned to start from the business problem.
+- Ran the full sales cycle for web and software projects: prospecting, discovery, technical proposals, pricing, negotiation and closing.
+- Turned client business needs into technical scope and requirements, and kept long-term client relationships after delivery.
+- Gave product demos and presentations to small-business and outsourcing clients.
+- Built websites and web applications for clients, applying my computer science training. This became my path into full-time engineering.
 
 ---
 
