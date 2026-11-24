@@ -104,14 +104,20 @@ Digital investment and trading platform offering smart portfolios and trading in
 
 - Built, modernized and maintained client systems; consulted with customers on proposals, scope and technical issues.
 
-### Technical Sales Engineer & Web Developer, Uniweb Technologies
+### Uniweb Technologies
 
-*Kathmandu · Feb 2011 – May 2013*
+*Kathmandu · 2010 – May 2013*
+
+**Web Developer** · 2012 – May 2013
+
+- Moved into a development role after building the company's own website, applying my computer science training.
+- Built websites and web applications for small-business and outsourcing clients, from requirements through delivery.
+
+**Technical Sales Engineer** · 2010 – 2012
 
 - Ran the full sales cycle for web and software projects: prospecting, discovery, technical proposals, pricing, negotiation and closing.
 - Turned client business needs into technical scope and requirements, and kept long-term client relationships after delivery.
 - Gave product demos and presentations to small-business and outsourcing clients.
-- Built websites and web applications for clients, applying my computer science training. This became my path into full-time engineering.
 
 ---
 
