@@ -2,7 +2,7 @@
 
 **Principal Engineer · Digital Payments & Financial Infrastructure · Solutions Architect**
 
-Abu Dhabi, UAE (resident) · Notice period: 30 days · +971 565 973 854 · bharatrose1@gmail.com · [LinkedIn](#) · [GitHub](https://github.com/b-limitless)
+Abu Dhabi, UAE (resident) · Notice period: 30 days · +971 565 973 854 · bharatrose1@gmail.com · [LinkedIn](https://www.linkedin.com/in/bharat-eshin-shah-3150b478/) · [GitHub](https://github.com/b-limitless)
 
 ---
 
