@@ -10,9 +10,11 @@ Abu Dhabi, UAE (resident) · Notice period: 30 days · +971 565 973 854 · bhara
 
 Experienced in building the systems behind money: how it moves, how it is recorded, and how it stays compliant.
 
-Hands-on engineering leader with 12+ years of experience, working across enterprises and high-growth fintechs. My focus is next-generation digital payments and financial infrastructure: how money moves across borders, between fiat and digital assets, and through traditional payment rails and blockchain networks alike. This is the infrastructure that merchants and other businesses integrate with. It covers money movement and settlement, digital wallets, payment and card rails, on/off-ramps, and the ledger that is the single source of truth behind them.
+Hands-on engineering leader with 12+ years of experience across enterprises and high-growth fintechs. My focus is next-generation digital payments and financial infrastructure: moving money across borders, between fiat and digital assets, over traditional payment rails and blockchain networks. This is the infrastructure merchants and other businesses integrate with, from wallets and on/off-ramps to the ledger that serves as the single source of truth.
 
-I have hands-on experience across the full ecosystem behind payment infrastructure: building systems that work with chartered banks, licensed payment providers (EMIs) offering banking-as-a-service, payment networks and crypto custodians, within the licensing and regulatory obligations that let a company hold customer fiat and crypto and move money between the two. I turn that into technical strategy and secure, compliant, cloud-native systems on AWS, and I align engineers, product, compliance and leadership around it. A university degree in business studies and early years in technical sales help me lead partner, commercial and compliance conversations as confidently as technical ones.
+Experienced across the full ecosystem behind it: building systems that work with chartered banks, licensed payment providers (EMIs) offering banking-as-a-service, payment networks and crypto custodians, within the licensing and regulatory obligations that let a company hold customer fiat and crypto and move money between the two.
+
+I turn that into technical strategy and secure, compliant, cloud-native systems on AWS, and align engineers, product, compliance and leadership around it. A university degree in business studies and early years in technical sales help me lead partner, commercial and compliance conversations as confidently as technical ones.
 
 ---
 
