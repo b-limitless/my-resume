@@ -63,17 +63,15 @@ Digital payments and wallet platform for consumers and businesses, handling paym
 
 *Remote · May 2023 – May 2024*
 
-- Architected a microservice-based tailoring automation platform covering orders, customization, payments and customer workflows (TypeScript, Node.js, PostgreSQL, RabbitMQ, AWS, React micro-frontends), with TDD and CI/CD.
-- Advanced my skills in cloud architecture and Spring Boot through structured self-learning.
+- Architected a microservice-based tailoring automation platform covering orders, customization, payments and customer workflows (TypeScript, Node.js, PostgreSQL, RabbitMQ, AWS, React micro-frontends).
 
-### Lead Software Engineer, Getbee
+### Senior Software Engineer, Getbee
 
 *Dubai · Jan 2022 – Feb 2023*
 
-Cloud-native live video commerce platform connecting in-store sales experts with online shoppers across the EU, the US and the Middle East. It lets retailers bring in-store service online, from real-time product recommendations to in-call checkout.
+Live video commerce platform connecting in-store sales experts with online shoppers across the EU, the US and the Middle East.
 
-- Led architecture of event-driven microservices on AWS and Kubernetes; set engineering strategy with product leadership.
-- Introduced a design system and engineering KPIs that improved team velocity and delivery clarity.
+- Architected event-driven microservices on AWS and Kubernetes; set engineering strategy with product leadership.
 
 ### Lead Software Engineer, Wealthface
 
@@ -82,60 +80,23 @@ Cloud-native live video commerce platform connecting in-store sales experts with
 Digital investment and trading platform offering smart portfolios and trading in 8,500+ global stocks and ETFs.
 
 - Designed end-to-end architecture for investing, trading, portfolio rebalancing and factor-based allocation.
-- Built event-driven flows for portfolio creation and rebalancing, plus high-performance APIs for ETF data and stock screening.
 - Worked directly with founders to turn investment strategy and compliance requirements into product.
 - Managed AWS infrastructure and costs as the user base grew; mentored the engineering team.
 
-### Software Architect, Toptal
+### Earlier Career
 
-*Abu Dhabi · Dec 2017 – Jan 2019*
-
-- Designed and built full-stack products and REST APIs for international clients (Node.js, React, MongoDB).
-
-### Professional Development
-
-*Jun 2016 – Nov 2017*
-
-- Self-directed training in modern JavaScript, cloud and full-stack architecture during an international relocation.
-
-### Software Developer, Crossover
-
-*Kathmandu · Jul 2013 – Jun 2016*
-
-- Built, modernized and maintained client systems; consulted with customers on proposals, scope and technical issues.
-
-### Uniweb Technologies
-
-*Kathmandu · 2010 – May 2013*
-
-**Web Developer** · 2012 – May 2013
-
-- Moved into a development role after building the company's own website, applying my computer science training.
-- Built websites and web applications for small-business and outsourcing clients, from requirements through delivery.
-
-**Technical Sales Engineer** · 2010 – 2012
-
-- Ran the full sales cycle for web and software projects: prospecting, discovery, technical proposals, pricing, negotiation and closing.
-- Turned client business needs into technical scope and requirements, and kept long-term client relationships after delivery.
-- Gave product demos and presentations to small-business and outsourcing clients.
+- **Software Architect, Toptal** · Abu Dhabi · Dec 2017 – Jan 2019 · Full-stack products and APIs for international clients.
+- **Professional Development** · Jun 2016 – Nov 2017 · Self-directed training in cloud and full-stack architecture during an international relocation.
+- **Software Developer, Crossover** · Kathmandu · Jul 2013 – Jun 2016 · Built and modernized client systems.
+- **Web Developer, Uniweb Technologies** · Kathmandu · 2012 – May 2013 · Moved into development after building the company's own website.
+- **Technical Sales Engineer, Uniweb Technologies** · Kathmandu · 2010 – 2012 · Full sales cycle for web and software projects, from discovery and proposals to closing.
 
 ---
 
-## Certifications
+## Certifications & Education
 
 - **AWS Certified Solutions Architect – Associate** · May 2025 (valid until May 2028)
-
-## Education
-
-- **Bachelor's Degree, Business Studies**, Tribhuvan University · 2008 – 2014
-  *Financial accounting, financial management, financial systems, business law, taxation, economics, entrepreneurship*
+- **Bachelor's Degree, Business Studies**, Tribhuvan University · 2008 – 2014 (financial accounting, financial management, business law, economics)
 - **Vocational Education, Computer Science** · 2009 – 2011
-  *Data structures & algorithms, OOP, databases, operating systems, networks, software engineering*
 
-## Languages
-
-English (fluent) · Norwegian (fluent) · Nepali (native)
-
-## Other
-
-UAE driving licence · References available on request
+**Languages:** English (fluent) · Norwegian (fluent) · Nepali (native) · **Other:** UAE driving licence · References available on request

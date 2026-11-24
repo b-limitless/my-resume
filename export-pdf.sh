@@ -13,9 +13,9 @@ cat > "$HTML" <<EOF
 <!doctype html>
 <html><head><meta charset="utf-8">
 <style>
-  @page { size: A4; margin: 14mm 16mm; }
+  @page { size: A4; margin: 12mm 14mm; }
   body { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
-         font-size: 10pt; line-height: 1.4; color: #111; }
+         font-size: 9.5pt; line-height: 1.32; color: #111; }
   h1 { font-size: 20pt; margin: 0 0 2px; }
   h2 { font-size: 12pt; margin: 14px 0 4px; text-transform: uppercase;
        letter-spacing: .5px; border-bottom: 1px solid #ccc; padding-bottom: 2px; }
