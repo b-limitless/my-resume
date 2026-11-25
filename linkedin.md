@@ -1,6 +1,6 @@
 # LinkedIn
 
-Plain text to copy into LinkedIn. Resume stays the source of truth; this is the tailored version.
+Plain text to copy into LinkedIn. Resume stays the source of truth. This is the tailored version.
 
 ## Headline (max 220)
 
@@ -21,7 +21,7 @@ I turn that into technical strategy and secure, compliant, cloud-native systems 
 
 Core expertise
 • Payment rails: domestic, cross-border and real-time rails (ACH, wires, SEPA, cards), fiat ↔ stablecoin on/off-ramps
-• Digital assets: multi-chain stablecoin movement across EVM and non-EVM blockchains; custody (MPC, hot/cold wallets, qualified custodians)
+• Digital assets: multi-chain stablecoin movement across EVM and non-EVM blockchains, custody (MPC, hot/cold wallets, qualified custodians)
 • Fintech regulation: chartered banks, trust charters, MTL, EMI, VASP, FBO and safeguarding structures, card issuing
 • Compliance & risk: AML, KYC/KYB, transaction screening and monitoring, sanctions (OFAC), audit trails
 • Ledgers: double-entry accounting, holds, reversals, reconciliation

@@ -22,7 +22,7 @@ I turn that into technical strategy and secure, compliant, cloud-native systems 
 
 - **Money movement & payment rails:** domestic, cross-border and real-time payment rails (ACH, wires, SEPA, card rails) and fiat ↔ stablecoin on/off-ramps, across the full lifecycle from deposit to settlement and reconciliation
 - **Digital asset networks & custody:** multi-chain stablecoin and crypto movement across EVM and non-EVM blockchains, custody models (MPC, hot/cold wallets, qualified custodians) and on-chain settlement
-- **Fintech business & regulation:** licensing that lets a business hold and move money (chartered banks, trust charters, MTL, EMI, VASP); integrating chartered banks, banking-as-a-service EMIs and crypto custodians; FBO and safeguarding account structures; card issuing and settlement economics
+- **Fintech business & regulation:** licensing that lets a business hold and move money (chartered banks, trust charters, MTL, EMI, VASP), integrating chartered banks, banking-as-a-service EMIs and crypto custodians, FBO and safeguarding account structures, card issuing and settlement economics
 - **Compliance & risk:** AML / KYC / KYB, transaction screening and monitoring, sanctions screening (OFAC), regulatory reporting, audit trails
 - **Ledgers & financial correctness:** double-entry accounting, holds and authorizations, reversals, reconciliation
 - **Cloud architecture & security:** AWS serverless and event-driven systems, multi-account setups, applied across the Well-Architected pillars (operational excellence, security, reliability, performance efficiency, cost optimization). Security work includes IAM, encryption (KMS), network isolation and least privilege
@@ -73,7 +73,7 @@ Digital payments and wallet platform for consumers and businesses, handling paym
 
 Live video commerce platform connecting in-store sales experts with online shoppers across the EU, the US and the Middle East.
 
-- Architected event-driven microservices on AWS and Kubernetes; set engineering strategy with product leadership.
+- Architected event-driven microservices on AWS and Kubernetes, and set engineering strategy with product leadership.
 
 ### Lead Software Engineer, Wealthface
 
@@ -83,7 +83,7 @@ Digital investment and trading platform offering smart portfolios and trading in
 
 - Designed end-to-end architecture for investing, trading, portfolio rebalancing and factor-based allocation.
 - Worked directly with founders to turn investment strategy and compliance requirements into product.
-- Managed AWS infrastructure and costs as the user base grew; mentored the engineering team.
+- Managed AWS infrastructure and costs as the user base grew, and mentored the engineering team.
 
 ### Earlier Career
 
