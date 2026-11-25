@@ -22,12 +22,16 @@ I turn that into technical strategy and secure, compliant, cloud-native systems 
 Core expertise
 • Payment rails: domestic, cross-border and real-time rails (ACH, wires, SEPA, cards), fiat ↔ stablecoin on/off-ramps
 • Digital assets: multi-chain stablecoin movement across EVM and non-EVM blockchains; custody (MPC, hot/cold wallets, qualified custodians)
-• Fintech regulation: chartered banks, MTL, EMI, VASP, FBO and safeguarding structures
-• Compliance & risk: AML, KYC/KYB, transaction screening and monitoring, sanctions (OFAC)
+• Fintech regulation: chartered banks, trust charters, MTL, EMI, VASP, FBO and safeguarding structures, card issuing
+• Compliance & risk: AML, KYC/KYB, transaction screening and monitoring, sanctions (OFAC), audit trails
 • Ledgers: double-entry accounting, holds, reversals, reconciliation
-• Cloud: AWS serverless and event-driven architecture, Well-Architected, security by design
+• Cloud: AWS serverless and event-driven architecture, multi-account setups, Well-Architected, security by design
 • Leadership: business goals into technical strategy, cross-team alignment, mentoring
 • AI-assisted engineering: AI coding agents and agent skills that help teams ship faster
+
+Technologies: TypeScript, Node.js, NestJS, Go · AWS (Lambda, EventBridge, API Gateway, DynamoDB, Aurora/RDS, ECS, SQS/SNS, VPC, IAM, KMS, CloudFront) · Serverless Framework, Terraform, Docker · PostgreSQL, MongoDB, Redis, Blnk (open-source ledger) · Kafka, RabbitMQ · React, Next.js
+
+AWS Certified Solutions Architect – Associate · Based in Abu Dhabi, UAE · Open to remote roles
 ```
 
 ## Skills (pin top 5, add the rest)
