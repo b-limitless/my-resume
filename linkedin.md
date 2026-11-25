@@ -1,0 +1,37 @@
+# LinkedIn
+
+Plain text to copy into LinkedIn. Resume stays the source of truth; this is the tailored version.
+
+## Headline (max 220)
+
+```text
+Principal Engineer · Fintech & Digital Assets · Payments, Stablecoins & Blockchain Infrastructure · Solutions Architect · AWS
+```
+
+## About (max 2,600)
+
+```text
+Experienced in building the systems behind money: how it moves, how it is recorded, and how it stays compliant.
+
+Hands-on engineering leader with 12+ years of experience across enterprises and high-growth fintechs. My focus is next-generation digital payments and financial infrastructure: moving money across borders, between fiat and digital assets, over traditional payment rails and blockchain networks. This is the infrastructure merchants and other businesses integrate with, from wallets and on/off-ramps to the ledger that serves as the single source of truth.
+
+Experienced across the full ecosystem behind it: building systems that work with chartered banks, licensed payment providers (EMIs) offering banking-as-a-service, payment networks and crypto custodians, within the licensing and regulatory obligations that let a company hold customer fiat and crypto and move money between the two.
+
+I turn that into technical strategy and secure, compliant, cloud-native systems on AWS, and align engineers, product, compliance and leadership around it. A university degree in business studies, vocational training in computer science and early years in technical sales let me bring partners, commercial, compliance and engineering teams together around shared business goals.
+
+Core expertise
+• Payment rails: ACH, Fedwire, SWIFT, SEPA & SEPA Instant, RTP, FedNow, card rails, fiat ↔ stablecoin on/off-ramps
+• Digital assets: stablecoins across Ethereum, Polygon, Base, Arbitrum, Solana and Tron; custody (MPC, hot/cold wallets, qualified custodians)
+• Fintech regulation: chartered banks, MTL, EMI, VASP, FBO and safeguarding structures
+• Compliance & risk: AML, KYC/KYB, transaction screening and monitoring, sanctions (OFAC)
+• Ledgers: double-entry accounting, holds, reversals, reconciliation
+• Cloud: AWS serverless and event-driven architecture, Well-Architected, security by design
+• Leadership: business goals into technical strategy, cross-team alignment, mentoring
+• AI-assisted engineering: AI coding agents and agent skills that help teams ship faster
+```
+
+## Skills (pin top 5, add the rest)
+
+Top 5: Payments · Financial Infrastructure · Digital Assets · Solutions Architecture · Amazon Web Services (AWS)
+
+Others: Fintech · Stablecoins · Blockchain · ACH · SEPA · Cross-border Payments · Ledger · Anti-Money Laundering (AML) · KYC · Regulatory Compliance · Event-Driven Architecture · Serverless · Terraform · TypeScript · Node.js · Go · PostgreSQL · Kafka · Engineering Leadership
