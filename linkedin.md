@@ -15,7 +15,7 @@ Experienced in building the systems behind money: how it moves, how it is record
 
 Hands-on engineering leader with 12+ years of experience across enterprises and high-growth fintechs. My focus is next-generation digital payments and financial infrastructure: moving money across borders, between fiat and digital assets, over traditional payment rails and blockchain networks. This is the infrastructure merchants and other businesses integrate with, from wallets and on/off-ramps to the ledger that serves as the single source of truth.
 
-Experienced across the full ecosystem behind it: building systems that work with chartered banks, licensed payment providers (EMIs) offering banking-as-a-service, payment networks and crypto custodians, within the licensing and regulatory obligations that let a company hold customer fiat and crypto and move money between the two.
+Experienced across the full ecosystem behind it: building systems that work with chartered banks, licensed payment providers (EMIs) offering banking-as-a-service, payment networks and crypto custodians, within the licensing and regulatory obligations that let a company hold, move and convert customer fiat and crypto.
 
 I turn that into technical strategy and secure, compliant, cloud-native systems on AWS, working closely with partners, product, commercial, compliance and engineering teams toward shared business goals.
 
@@ -31,7 +31,7 @@ Core expertise
 
 Technologies: TypeScript, Node.js, NestJS, Go · AWS (Lambda, EventBridge, API Gateway, DynamoDB, Aurora/RDS, ECS, SQS/SNS, VPC, IAM, KMS, CloudFront) · Serverless Framework, Terraform, Docker · PostgreSQL, MongoDB, Redis, Blnk (open-source ledger) · Kafka, RabbitMQ · React, Next.js
 
-AWS Certified Solutions Architect – Associate · Based in Abu Dhabi, UAE · Open to remote roles
+AWS Certified Solutions Architect
 ```
 
 ## Skills (pin top 5, add the rest)
