@@ -17,7 +17,7 @@ Hands-on engineering leader with 12+ years of experience across enterprises and 
 
 Experienced across the full ecosystem behind it: building systems that work with chartered banks, licensed payment providers (EMIs) offering banking-as-a-service, payment networks and crypto custodians, within the licensing and regulatory obligations that let a company hold customer fiat and crypto and move money between the two.
 
-I turn that into technical strategy and secure, compliant, cloud-native systems on AWS, and align engineers, product, compliance and leadership around it. A university degree in business studies, vocational training in computer science and early years in technical sales let me bring partners, commercial, compliance and engineering teams together around shared business goals.
+I turn that into technical strategy and secure, compliant, cloud-native systems on AWS, working closely with partners, product, commercial, compliance and engineering teams toward shared business goals.
 
 Core expertise
 • Payment rails: ACH, Fedwire, SWIFT, SEPA & SEPA Instant, RTP, FedNow, card rails, fiat ↔ stablecoin on/off-ramps
