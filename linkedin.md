@@ -20,8 +20,8 @@ Experienced across the full ecosystem behind it: building systems that work with
 I turn that into technical strategy and secure, compliant, cloud-native systems on AWS, working closely with partners, product, commercial, compliance and engineering teams toward shared business goals.
 
 Core expertise
-• Payment rails: ACH, Fedwire, SWIFT, SEPA & SEPA Instant, RTP, FedNow, card rails, fiat ↔ stablecoin on/off-ramps
-• Digital assets: stablecoins across Ethereum, Polygon, Base, Arbitrum, Solana and Tron; custody (MPC, hot/cold wallets, qualified custodians)
+• Payment rails: domestic, cross-border and real-time rails (ACH, wires, SEPA, cards), fiat ↔ stablecoin on/off-ramps
+• Digital assets: multi-chain stablecoin movement across EVM and non-EVM blockchains; custody (MPC, hot/cold wallets, qualified custodians)
 • Fintech regulation: chartered banks, MTL, EMI, VASP, FBO and safeguarding structures
 • Compliance & risk: AML, KYC/KYB, transaction screening and monitoring, sanctions (OFAC)
 • Ledgers: double-entry accounting, holds, reversals, reconciliation

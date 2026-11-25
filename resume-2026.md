@@ -20,8 +20,8 @@ I turn that into technical strategy and secure, compliant, cloud-native systems 
 
 ## Core Expertise
 
-- **Money movement & payment rails:** ACH, domestic and cross-border wires (Fedwire, SWIFT), SEPA & SEPA Instant, real-time payments (RTP, FedNow), and debit and credit card rails, plus on/off-ramps between fiat and stablecoins. Covers the full lifecycle: deposits, withdrawals, transfers, refunds, remittance, settlement and reconciliation
-- **Digital asset networks & custody:** multi-chain stablecoin and crypto movement across EVM chains (Ethereum, Polygon, Base, Arbitrum), Solana and Tron, plus custody models (MPC, hot/cold wallets, qualified custodians) and on-chain settlement
+- **Money movement & payment rails:** domestic, cross-border and real-time payment rails (ACH, wires, SEPA, card rails) and fiat ↔ stablecoin on/off-ramps, across the full lifecycle from deposit to settlement and reconciliation
+- **Digital asset networks & custody:** multi-chain stablecoin and crypto movement across EVM and non-EVM blockchains, custody models (MPC, hot/cold wallets, qualified custodians) and on-chain settlement
 - **Fintech business & regulation:** licensing that lets a business hold and move money (chartered banks, trust charters, MTL, EMI, VASP); integrating chartered banks, banking-as-a-service EMIs and crypto custodians; FBO and safeguarding account structures; card issuing and settlement economics
 - **Compliance & risk:** AML / KYC / KYB, transaction screening and monitoring, sanctions screening (OFAC), regulatory reporting, audit trails
 - **Ledgers & financial correctness:** double-entry accounting, holds and authorizations, reversals, reconciliation
