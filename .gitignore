@@ -1,3 +1,6 @@
 .DS_STORE
 .DS_Store
 .~lock.*#
+# Private notes, local only
+achievements.md
+job-search-plan.md
