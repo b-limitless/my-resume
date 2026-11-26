@@ -23,7 +23,7 @@ Core expertise
 • Payment rails: domestic, cross-border and real-time rails (ACH, wires, SEPA, cards), fiat ↔ stablecoin on/off-ramps
 • Digital assets: multi-chain stablecoin movement across EVM and non-EVM blockchains, custody (MPC, hot/cold wallets, qualified custodians)
 • Licensed partners: collaborating with chartered banks, trust companies, money transmitters, EMIs, VASPs and crypto custodians on integrations, FBO and safeguarding structures, card issuing
-• Compliance & risk: AML, KYC/KYB, transaction screening and monitoring, sanctions (OFAC), audit trails
+• Compliance & risk: AML, KYC/KYB, transaction screening and monitoring, audit trails
 • Ledgers: double-entry accounting, holds, reversals, reconciliation
 • Cloud: AWS serverless and event-driven architecture, multi-account setups, Well-Architected, security by design
 • Leadership: business goals into technical strategy, cross-team alignment, mentoring
