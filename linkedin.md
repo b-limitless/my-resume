@@ -13,7 +13,7 @@ Principal Engineer · Fintech & Digital Assets · Payments, Stablecoins & Blockc
 ```text
 Experienced in building the systems behind money: how it moves, how it is recorded, and how it stays compliant.
 
-Hands-on engineering leader with 12+ years of experience across fintech and other industries, from enterprises to high-growth startups. My focus is next-generation digital payments and financial infrastructure: moving money across borders, between fiat and digital assets, over traditional payment rails and blockchain networks. I work end to end on the platform layer other businesses build on, from bank and blockchain integrations to wallets, on/off-ramps and the ledger behind every balance.
+Hands-on engineering leader with 12+ years of experience across fintech and other industries, from enterprises to high-growth startups. My focus is next-generation digital payments and financial infrastructure: moving money across borders, between fiat and digital assets, over traditional payment rails and blockchain networks, with end-to-end experience across the platform layer other businesses build on, from bank and blockchain integrations to wallets, on/off-ramps and the ledger behind every balance.
 
 Experienced across the full ecosystem behind it: building systems that work with chartered banks, licensed payment providers (EMIs) offering banking-as-a-service, payment networks and crypto custodians, within the licensing and regulatory obligations that let a company hold, move and convert customer fiat and crypto.
 
