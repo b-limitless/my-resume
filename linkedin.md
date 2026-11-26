@@ -39,3 +39,15 @@ AWS Certified Solutions Architect
 Top 5: Payments · Financial Infrastructure · Digital Assets · Solutions Architecture · Amazon Web Services (AWS)
 
 Others: Fintech · Stablecoins · Blockchain · ACH · SEPA · Cross-border Payments · Ledger · Anti-Money Laundering (AML) · KYC · Regulatory Compliance · Event-Driven Architecture · Serverless · Terraform · TypeScript · Node.js · Go · PostgreSQL · Kafka · Engineering Leadership
+
+## Experience: Technical Sales Engineer, Uniweb Technologies (2010 – 2012)
+
+```text
+• Pitched web and software solutions to small businesses and outsourcing clients, with tailored product demos and presentations.
+• Ran discovery with customers to understand their business needs and turned them into clear technical scope, proposals and pricing.
+• Coordinated between customers, engineers and management so projects were planned realistically and delivered as promised.
+• Negotiated and closed deals, owning the full sales cycle from first contact to signed contract.
+• Provided after-sales support and services, handling customer issues and building long-term relationships that led to repeat business.
+
+Skills: Technical Sales · Pre-sales · Solution Selling · Product Demos · Customer Relationship Management · Negotiation
+```
