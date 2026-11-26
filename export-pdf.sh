@@ -31,7 +31,7 @@ cat > "$HTML" <<EOF
   ul { margin: 3px 0; padding-left: 16px; }
   li { margin: 1px 0; }
   hr { display: none; }
-  a { color: #111; text-decoration: none; }
+  a { color: #0a58ca; text-decoration: underline; text-underline-offset: 2px; }
   h3, h3 + p { break-after: avoid; }
   li { break-inside: avoid; }
 </style></head>
