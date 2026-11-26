@@ -1,0 +1,70 @@
+==================== BAKKT · Principal Engineer ====================
+
+Next-generation digital payments and financial infrastructure across fiat and digital assets. I work on the core platform that connects traditional banking rails with stablecoins and digital assets.
+
+• Building the general ledger on the open-source Blnk engine, the double-entry source of truth for every fiat and stablecoin balance.
+• Designing money-movement lifecycles (deposits, withdrawals, transfers, refunds, remittance, on/off-ramps, card transactions), including holds, settlement, reversals and reconciliation.
+• Building compliance into transaction flows: AML and transaction screening before funds settle, regulatory reporting codes and complete audit trails.
+• Architecting event-driven, serverless services on AWS that communicate through shared event contracts across multiple engineering teams.
+• Leading the migration of live financial flows from a legacy system using feature flags, automated parity checks and data backfills.
+• Improving operational excellence: observability and alerting, a full local cloud environment and faster CI/CD.
+• Strengthened AI-assisted development, including agent skills that capture domain and codebase knowledge so engineers and AI agents are productive from day one.
+• Mentoring engineers and setting standards for code quality, testing and design reviews.
+
+
+==================== AVRIOC TECHNOLOGIES · Principal Software Engineer ====================
+
+Digital payments and wallet platform for consumers and businesses in the UAE and internationally.
+
+• Architected payment and digital wallet services covering secure money movement, stored value, merchant acceptance and settlement.
+• Designed AWS infrastructure (ECS, Lambda, RDS, SQS, CloudFront, Global Accelerator) for low latency, high availability and cost efficiency.
+• Worked with compliance and business stakeholders to turn payment regulations and product needs into secure, auditable systems.
+• Led and mentored a team of 8–10 engineers, owning technical delivery from design to production.
+
+
+==================== FIVERR · Senior Software Engineer (Independent) ====================
+
+• Architected a microservice-based tailoring automation platform covering orders, customization, payments and customer workflows.
+• Built with TypeScript, Node.js, PostgreSQL, RabbitMQ, AWS and React micro-frontends.
+
+
+==================== GETBEE · Senior Software Engineer ====================
+
+Live video commerce platform connecting in-store sales experts with online shoppers across the EU, the US and the Middle East.
+
+• Architected event-driven microservices on AWS and Kubernetes.
+• Set engineering strategy together with product leadership.
+
+
+==================== WEALTHFACE · Lead Software Engineer ====================
+
+Digital investment and trading platform offering smart portfolios and trading in 8,500+ global stocks and ETFs.
+
+• Designed end-to-end architecture for investing, trading, portfolio rebalancing and factor-based allocation.
+• Worked directly with founders to turn investment strategy and compliance requirements into product.
+• Managed AWS infrastructure and costs as the user base grew, and mentored the engineering team.
+
+
+==================== TOPTAL · Software Architect ====================
+
+• Designed and built full-stack products and REST APIs for international clients (Node.js, React, MongoDB).
+
+
+==================== CROSSOVER · Software Developer ====================
+
+• Built, modernized and maintained client systems, and worked with customers on proposals, scope and technical issues.
+
+
+==================== UNIWEB TECHNOLOGIES · Web Developer ====================
+
+• Moved into development after building the company's own website.
+• Built websites and web applications for small-business and outsourcing clients.
+
+
+==================== UNIWEB TECHNOLOGIES · Technical Sales Engineer ====================
+
+• Pitched web and software solutions to small businesses and outsourcing clients, with tailored product demos and presentations.
+• Ran discovery with customers to understand their business needs and turned them into clear technical scope, proposals and pricing.
+• Coordinated between customers, engineers and management so projects were planned realistically and delivered as promised.
+• Negotiated and closed deals, owning the full sales cycle from first contact to signed contract.
+• Provided after-sales support and services, handling customer issues and building long-term relationships that led to repeat business.

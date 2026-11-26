@@ -42,7 +42,7 @@ Others: Fintech · Stablecoins · Blockchain · ACH · SEPA · Cross-border Paym
 
 ## Experience: Technical Sales Engineer, Uniweb Technologies (2010 – 2012)
 
-Description: copy everything from `linkedin-technical-sales-engineer.txt` (plain text, line breaks kept).
+Description: see `linkedin-experience.txt`, which has every role ready to paste.
 
 Skills (add in the role's Skills field, not the description): Technical Sales · Pre-sales · Solution Selling · Product Demos · Customer Relationship Management · Negotiation
 
