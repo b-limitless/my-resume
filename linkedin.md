@@ -29,7 +29,7 @@ Core expertise
 • Leadership: business goals into technical strategy, cross-team alignment, mentoring
 • AI-assisted engineering: AI coding agents and agent skills that help teams ship faster
 
-Technologies: TypeScript, Node.js, NestJS, Go · AWS (Lambda, EventBridge, API Gateway, DynamoDB, Aurora/RDS, ECS, SQS/SNS, VPC, IAM, KMS, CloudFront) · Serverless Framework, Terraform, Docker · PostgreSQL, MongoDB, Redis, Blnk (open-source ledger) · Kafka, RabbitMQ · React, Next.js
+Technologies: TypeScript, Node.js, NestJS, Go · AWS (Lambda, EventBridge, API Gateway, S3, DynamoDB, Aurora/RDS, ECS, SQS/SNS, VPC, IAM, KMS, CloudFront) · Serverless Framework, Terraform, Docker · PostgreSQL, MongoDB, Redis, Blnk (open-source ledger) · Kafka, RabbitMQ · React, Next.js
 
 AWS Certified Solutions Architect
 ```

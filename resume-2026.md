@@ -29,7 +29,7 @@ I turn that into technical strategy and secure, compliant, cloud-native systems 
 - **Engineering leadership:** turning business goals into technical strategy and roadmaps, aligning stakeholders across product, compliance and business, mentoring and growing engineers, and setting architecture and engineering standards
 - **AI-assisted engineering:** day-to-day development with AI coding agents (Cursor, multiple LLMs), and building agent skills and workflows that help teams ship faster while keeping quality high
 
-**Technologies:** TypeScript, Node.js, NestJS, Go · AWS (Lambda, EventBridge, API Gateway, DynamoDB, Aurora/RDS, ECS, SQS/SNS, VPC, IAM, KMS, CloudFront) · Serverless Framework, Terraform, Docker · PostgreSQL, MongoDB, Redis, Blnk (open-source ledger) · Kafka, RabbitMQ · React, Next.js
+**Technologies:** TypeScript, Node.js, NestJS, Go · AWS (Lambda, EventBridge, API Gateway, S3, DynamoDB, Aurora/RDS, ECS, SQS/SNS, VPC, IAM, KMS, CloudFront) · Serverless Framework, Terraform, Docker · PostgreSQL, MongoDB, Redis, Blnk (open-source ledger) · Kafka, RabbitMQ · React, Next.js
 
 ---
 
