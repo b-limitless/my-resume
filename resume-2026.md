@@ -22,7 +22,7 @@ I turn that into technical strategy and secure, compliant, cloud-native systems 
 
 - **Money movement & payment rails:** domestic, cross-border and real-time payment rails (ACH, wires, SEPA, card rails) and fiat ↔ stablecoin on/off-ramps, across the full lifecycle from deposit to settlement and reconciliation
 - **Digital asset networks & custody:** multi-chain stablecoin and crypto movement across EVM and non-EVM blockchains, custody models (MPC, hot/cold wallets, qualified custodians) and on-chain settlement
-- **Fintech business & regulation:** licensing that lets a business hold and move money (chartered banks, trust charters, MTL, EMI, VASP), integrating chartered banks, banking-as-a-service EMIs and crypto custodians, FBO and safeguarding account structures, card issuing and settlement economics
+- **Licensed partners & regulation:** collaborating closely with licensed partners such as chartered banks, trust companies, money transmitters, banking-as-a-service EMIs, VASPs and crypto custodians, to integrate their services, design FBO and safeguarding account structures, and support card issuing and settlement
 - **Compliance & risk:** AML / KYC / KYB, transaction screening and monitoring, sanctions screening (OFAC), regulatory reporting, audit trails
 - **Ledgers & financial correctness:** double-entry accounting, holds and authorizations, reversals, reconciliation
 - **Cloud architecture & security:** AWS serverless and event-driven systems, multi-account setups, applied across the Well-Architected pillars (operational excellence, security, reliability, performance efficiency, cost optimization). Security work includes IAM, encryption (KMS), network isolation and least privilege

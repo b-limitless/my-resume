@@ -22,7 +22,7 @@ I turn that into technical strategy and secure, compliant, cloud-native systems 
 Core expertise
 • Payment rails: domestic, cross-border and real-time rails (ACH, wires, SEPA, cards), fiat ↔ stablecoin on/off-ramps
 • Digital assets: multi-chain stablecoin movement across EVM and non-EVM blockchains, custody (MPC, hot/cold wallets, qualified custodians)
-• Fintech regulation: chartered banks, trust charters, MTL, EMI, VASP, FBO and safeguarding structures, card issuing
+• Licensed partners: collaborating with chartered banks, trust companies, money transmitters, EMIs, VASPs and crypto custodians on integrations, FBO and safeguarding structures, card issuing
 • Compliance & risk: AML, KYC/KYB, transaction screening and monitoring, sanctions (OFAC), audit trails
 • Ledgers: double-entry accounting, holds, reversals, reconciliation
 • Cloud: AWS serverless and event-driven architecture, multi-account setups, Well-Architected, security by design
