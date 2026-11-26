@@ -10,7 +10,7 @@ Abu Dhabi, UAE (resident) · Notice period: 30 days · +971 565 973 854 · bhara
 
 Experienced in building the systems behind money: how it moves, how it is recorded, and how it stays compliant.
 
-Hands-on engineering leader with 12+ years of experience across fintech and other industries, from enterprises to high-growth startups. My focus is next-generation digital payments and financial infrastructure: moving money across borders, between fiat and digital assets, over traditional payment rails and blockchain networks. This is the infrastructure merchants and other businesses integrate with, from wallets and on/off-ramps to the ledger that serves as the single source of truth.
+Hands-on engineering leader with 12+ years of experience across fintech and other industries, from enterprises to high-growth startups. My focus is next-generation digital payments and financial infrastructure: moving money across borders, between fiat and digital assets, over traditional payment rails and blockchain networks. I work end to end on the platform layer other businesses build on, from bank and blockchain integrations to wallets, on/off-ramps and the ledger behind every balance.
 
 Experienced across the full ecosystem behind it: building systems that work with chartered banks, licensed payment providers (EMIs) offering banking-as-a-service, payment networks and crypto custodians, within the licensing and regulatory obligations that let a company hold, move and convert customer fiat and crypto.
 
