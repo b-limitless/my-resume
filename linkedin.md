@@ -45,3 +45,17 @@ Others: Fintech · Stablecoins · Blockchain · ACH · SEPA · Cross-border Paym
 Description: copy everything from `linkedin-technical-sales-engineer.txt` (plain text, line breaks kept).
 
 Skills (add in the role's Skills field, not the description): Technical Sales · Pre-sales · Solution Selling · Product Demos · Customer Relationship Management · Negotiation
+
+## Skills per role (max 5 each, pick LinkedIn's suggested name)
+
+| Role | Skills |
+|---|---|
+| Bakkt | Payments · Financial Infrastructure · Stablecoins · Solutions Architecture · Amazon Web Services (AWS) |
+| Avrioc | Payments · Digital Wallets · Engineering Leadership · Amazon Web Services (AWS) · Microservices |
+| Fiverr | Microservices · Node.js · TypeScript · PostgreSQL · RabbitMQ |
+| Getbee | Event-Driven Architecture · Kubernetes · Amazon Web Services (AWS) · Microservices · Engineering Strategy |
+| Wealthface | Fintech · Software Architecture · Event-Driven Architecture · Amazon Web Services (AWS) · Engineering Leadership |
+| Toptal | Full-Stack Development · Node.js · React · MongoDB · REST APIs |
+| Crossover | Software Development · JavaScript · Web Applications · Client Consulting · Legacy Modernization |
+| Uniweb, Web Developer | Web Development · HTML · CSS · JavaScript · Web Design |
+| Uniweb, Technical Sales Engineer | Technical Sales · Pre-sales · Solution Selling · Product Demos · Negotiation |
