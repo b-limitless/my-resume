@@ -88,7 +88,7 @@ Digital investment and trading platform offering smart portfolios and trading in
 ### Earlier Career
 
 - **Software Architect, Toptal** · Abu Dhabi · Dec 2017 – Jan 2019 · Full-stack products and APIs for international clients.
-- **Professional Development** · Jun 2016 – Nov 2017 · Self-directed training in cloud and full-stack architecture during an international relocation.
+- **Professional Development** · Jun 2016 – Nov 2017 · Structured online training (Udemy and others) during an international relocation, covering modern JavaScript, Node.js, React, AWS fundamentals, REST API design and MongoDB, applied through practice projects that led directly into full-stack client work at Toptal.
 - **Software Developer, Crossover** · Kathmandu · Jul 2013 – Jun 2016 · Built and modernized client systems.
 - **Web Developer, Uniweb Technologies** · Kathmandu · 2012 – May 2013 · Moved into development after building the company's own website.
 - **Technical Sales Engineer, Uniweb Technologies** · Kathmandu · 2010 – 2012 · Full sales cycle for web and software projects, from discovery and proposals to closing.

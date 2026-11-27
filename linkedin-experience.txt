@@ -50,6 +50,15 @@ Digital investment and trading platform offering smart portfolios and trading in
 • Designed and built full-stack products and REST APIs for international clients (Node.js, React, MongoDB).
 
 
+==================== CAREER BREAK · Professional development (Jun 2016 – Nov 2017) ====================
+
+Structured self-directed learning during an international relocation.
+
+• Completed structured online courses (Udemy and others) in modern JavaScript, Node.js and React.
+• Studied cloud fundamentals on AWS, REST API design and NoSQL databases (MongoDB).
+• Built practice projects to apply what I learned, which led directly into full-stack client work at Toptal.
+
+
 ==================== CROSSOVER · Software Developer ====================
 
 • Built, modernized and maintained client systems, and worked with customers on proposals, scope and technical issues.
