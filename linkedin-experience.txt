@@ -57,12 +57,10 @@ Digital investment and trading platform offering smart portfolios and trading in
 
 ==================== UNIWEB TECHNOLOGIES · Web Developer ====================
 
-• Designed and developed scalable and reliable backend systems and APIs to support the organization's needs.
-• Collaborated closely with cross-functional teams, including frontend developers, product managers and designers, to deliver optimal solutions.
-• Architected and optimized databases for efficient data storage and retrieval, ensuring high performance and scalability.
-• Implemented security measures and followed best practices to protect data and maintain data privacy.
-• Continuously improved development processes, adopting industry best practices and promoting code quality through code reviews and automated testing.
-• Troubleshot and resolved production issues, identifying root causes and implementing effective solutions in a timely manner.
+• Moved into development after building the company's own website.
+• Designed and built websites and web applications for small-business and outsourcing clients, from requirements to launch.
+• Worked directly with clients and the sales team to turn business needs into working sites.
+• Maintained and improved client websites after launch, fixing issues and adding features.
 
 
 ==================== UNIWEB TECHNOLOGIES · Technical Sales Engineer ====================
